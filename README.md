@@ -53,10 +53,10 @@ compradas da empresa XYZ, para a distribuição total de compras de assinaturas
 
 ## Imagens dos Gráficos das Assinaturas
 
-** Total de Assinaturas por Nome ** 
+** Total Gasto por Assinaturas ** 
 <img src="Grafico_1.png">
 
-** Total Gasto por Assinaturas **
+** Total de Assinaturas por Nome **
 <img src="Grafico_2.png">
 
 ** Assinaturas de Gastos por Data de Nascimento ** 
